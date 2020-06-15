@@ -23,11 +23,10 @@ TEST３
 ##### 順番にアニメーション表示
 ## 身に着けたいスキル
 - HTML / CSS 
-- Java |
 - JavaScript |
-- PHP |
 - Python |
-- Ruby |
+- AWS他クラウド関連 |
+- Java
 
 ---
 
