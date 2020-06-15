@@ -15,6 +15,12 @@ Twitterもプログラミングも初心者
 ### ３枚目のスライド
 
 TEST３
+- AAA
+- AAB
+  - BBB
+  - BBA
+- CCC
+  - CCD
 
 ---
 
@@ -27,6 +33,16 @@ TEST３
 - Python |
 - AWS他クラウド関連 |
 - Java |
+
+---
+
+### ５枚目のスライド
+
+## ソースコード挿入
+```python
+a = 1
+print(a)
+```
 
 ---
 
