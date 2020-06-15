@@ -18,6 +18,17 @@ TEST３
 
 ---
 
+### ４枚目のスライド
+
+#### 順番にアニメーション表示
+- Java
+- JavaScript
+- PHP
+- Python
+- Ruby
+
+---
+
 ### おわり
 
 TESTスライドを終わります。（END）
